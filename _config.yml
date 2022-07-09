@@ -71,5 +71,5 @@ exclude:
   - .gitignore
   - .liquidrc
   - postcss.config.js
-  # - tailwind.config.js
+  - tailwind.config.js
   - netlify.toml
