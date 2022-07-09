@@ -73,3 +73,5 @@ exclude:
   # - postcss.config.js
   # - tailwind.config.js
   - netlify.toml
+
+theme: jekyll-theme-cayman
