@@ -1,4 +1,4 @@
-baseurl: "/"
+baseurl: "/web-mangunsari"
 permalink: pretty
 title: "Jekyll Atlantic"
 collections_dir: collections
