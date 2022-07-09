@@ -2,7 +2,7 @@
 
 Atlantic is a Jekyll Tailwind CSS theme. It shows best practices for using Tailwind with Jekyll.
 
-[Live Demo](https://jekyll-atlantic.netlify.app/) | 
+[Live Demo](https://jekyll-atlantic.netlify.app/) |
 [Zerostatic Themes](https://www.zerostatic.io/theme/jekyll-atlantic/)
 
 <a href="https://www.buymeacoffee.com/zerostatic" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
@@ -15,7 +15,7 @@ Atlantic is a Jekyll Tailwind CSS theme. It shows best practices for using Tailw
 <img width="18" height="18" src="https://jamstackthemes.dev/images/icons/tailwind.svg" /> [Tailwind CSS](https://tailwindcss.com/docs) v2.2+
 <img width="18" height="18" src="https://jamstackthemes.dev/images/icons/postcss.svg" /> [PostCSS](https://postcss.org/) 8.3+
 
-- Uses PostCSS with autoprefixer, nested css, cssnano (minify css) 
+- Uses PostCSS with autoprefixer, nested css, cssnano (minify css)
 - Works with native Jekyll commands `jekyll serve` and `jekyll build`
 - Correctly uses Tailwind to purge CSS in production
 - Full blog functionality
@@ -37,7 +37,7 @@ Atlantic is a Jekyll Tailwind CSS theme. It shows best practices for using Tailw
 ## Installation
 
 ### Installing Ruby & Jekyll
- 
+
 If this is your first time using Jekyll, please follow the [Jekyll docs](https://jekyllrb.com/docs/installation/) and make sure your local environment (including Ruby) is setup correctly.
 
 ### Installing Theme
@@ -54,16 +54,16 @@ npm install
 
 ```
 bundle install
-``` 
+```
 
 To start the Jekyll local development server.
 
 ```
 bundle exec jekyll serve
-``` 
+```
 
 To build the theme.
- 
+
 ```
 bundle exec jekyll build
 ```
@@ -77,9 +77,9 @@ Use Netlify to deploy this theme. This theme contains a valid and tested `netlif
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/zerostaticthemes/jekyll-atlantic-theme)
 
 ### Github Pages
-This theme has been tested to work with Github Pages (and Github Project Pages). When using Github Pages you will need to update the `baseurl` in the `_config.yml` otherwise all the css, images and paths will be broken.
 
-For example the site https://zerostaticthemes.github.io/jekyll-atlantic-theme would have `baseurl: "/jekyll-atlantic-theme/"`
+This theme has been tested to work with Github Pages (and Github Project Pages). When using Github Pages you will need to update the `baseurl` in the `_config.yml` otherwise all the css, images and paths will be broken.
+For example the site https://windusari-berseri.github.io/web-mangunsari would have `baseurl: "/jekyll-atlantic-theme/"`
 
 ## Extras
 
@@ -88,7 +88,7 @@ For example the site https://zerostaticthemes.github.io/jekyll-atlantic-theme wo
 - Don't create ports or new versions of this theme without asking me
 - You can't re-distribute or re-sell this theme as your own template
 
-### Credits 
+### Credits
 
 - Beautiful royalty free Illustrations by Icons8 - https://icons8.com/illustrations/style--pixeltrue
 - Stock images by Unsplash - https://unsplash.com/
