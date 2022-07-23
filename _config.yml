@@ -29,7 +29,7 @@ seo:
 
 plugins:
   - jekyll-environment-variables
-  - jekyll-postcss-v2
+  - jekyll-postcss
   - jekyll-paginate
 
 paginate: 3
