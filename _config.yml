@@ -1,6 +1,6 @@
 baseurl: "/web-mangunsari"
 permalink: pretty
-title: "Jekyll Atlantic"
+title: "Mangunsari"
 collections_dir: collections
 markdown: kramdown
 highlighter: rouge

@@ -1,10 +1,10 @@
 main:
   - name: "Home"
-    url: "/"
+    url: "/web-mangunsari/"
     weight: 1
   - name: "Blog"
-    url: "/blog/"
+    url: "/web-mangunsari/blog/"
     weight: 2
   - name: "About"
-    url: "/about/"
+    url: "/web-mangunsari/about/"
     weight: 3
