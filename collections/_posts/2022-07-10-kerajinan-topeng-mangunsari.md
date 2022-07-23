@@ -12,5 +12,5 @@ Di Desa Mangunsari terdapat kerajinan topeng yang dikerjakan secara bersama. Bia
 
 
 <img src="{{site.baseurl}}/assets/images/topeng/topeng1.jpg">
-![topeng2](/assets/images/topeng/topeng2.jpg)
-![topeng3](/assets/images/topeng/topeng3.jpg)
+<img src="{{site.baseurl}}/assets/images/topeng/topeng2.jpg">
+<img src="{{site.baseurl}}/assets/images/topeng/topeng3.jpg">
