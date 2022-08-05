@@ -4,8 +4,28 @@ date: 2022-07-03T09:49:03+10:00
 layout: post
 categories: ["Berita"]
 description: Branding is an intrinsic part of your companies success, learn why your brand matters.
-thumbnail: "https://source.unsplash.com/YmQ0-nmWcV0/640x360"
-image: "https://source.unsplash.com/YmQ0-nmWcV0/1600x900"
+thumbnail: "/assets/images/tembakau/gudang.JPG"
+image: "/assets/images/tembakau/gudang.JPG"
 ---
 
-Di Desa Mangunsari terdapat kerajinan keranjang tembakau yang terbuat dari bambu dan pelepah pisang. Kerajinan ini merupakan kerajinan tahunan karena mengikuti musim tembakau yang berlangsung selama enam bulan. Kerajinan ini dilakukan secara bersama di
+Di Desa Mangunsari terdapat kerajinan keranjang tembakau yang terbuat dari bambu dan pelepah pisang. Kerajinan ini merupakan kerajinan tahunan karena mengikuti musim tembakau yang berlangsung selama enam bulan. Kerajinan ini dilakukan secara bersama di Dusun Karanganyar, Sempu, dan Ngentak.
+
+<img src="{{site.baseurl}}/assets/images/tembakau/bambu1.JPG">
+
+Bermula dari pohon bambu yang dipotong.
+
+<img src="{{site.baseurl}}/assets/images/tembakau/bambu2.JPG">
+
+Bambu tersebut dibelah-belah.
+
+<img src="{{site.baseurl}}/assets/images/tembakau/serat-bambu1.JPG">
+
+Beberapa bambu disisakan untuk serat pengikat keranjang.
+
+<img src="{{site.baseurl}}/assets/images/tembakau/serat-bambu2.JPG">
+<img src="{{site.baseurl}}/assets/images/tembakau/pelepah1.JPG">
+
+Pelepah pisang digunakan untuk melapisi keranjang.
+
+<img src="{{site.baseurl}}/assets/images/tembakau/pelepah2.JPG">
+<img src="{{site.baseurl}}/assets/images/tembakau/jadi.JPG">

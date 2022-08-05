@@ -22,9 +22,9 @@
 <meta content="website" property="og:type"/>
 <meta property="og:url" content="{{ page.url }}"/>
 {% if page.image %}
-  <meta property="og:image" content="{{ page.image | baseurl }}"/>
+  <meta property="og:image" content="{{ page.image | absolute_url }}"/>
   {% elsif site.seo.meta_og_image %}
-  <meta property="og:image" content="{{ site.seo.meta_og_image | baseurl }}"/>
+  <meta property="og:image" content="{{ site.seo.meta_og_image | absolute_url }}"/>
 {% endif %}
 {% if page.description %}<meta property="og:description" content="{{ page.description }}"/>
 {% endif %}
