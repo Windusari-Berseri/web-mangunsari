@@ -5,7 +5,7 @@ layout: post
 categories: ["Pengetahuan"]
 description: Desa Mangunsari adalah salah satu desa di Kecamatan Windusari, Kab. Magelang dengan daya tarik tersendiri.
 thumbnail: "https://source.unsplash.com/YmQ0-nmWcV0/640x360"
-image: <img src="{{site.baseurl}}/assets/images/maps/peta-desa.jpg">
+image: "/assets/images/maps/peta-desa.jpg"
 ---
 
 Mangunsari adalah sebuah desa yang terletak di Kecamatan Windusari, Kabupaten Magelang, Jawa Tengah, Luas Desa Mangunsari sekitar 116.353 Ha, dengan batas wilayah dari sebelah barat yaitu Desa Genito, sebelah timur Desa Kentengsari, sebelah selatan Desa Gunungsari, dan sebelah utara Kabupaten Temanggung.
