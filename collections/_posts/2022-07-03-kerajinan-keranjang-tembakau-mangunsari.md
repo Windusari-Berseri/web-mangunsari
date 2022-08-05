@@ -3,7 +3,7 @@ title: "Kerajinan Keranjang Tembakau di Desa Mangunsari"
 date: 2022-07-03T09:49:03+10:00
 layout: post
 categories: ["Berita"]
-description: Branding is an intrinsic part of your companies success, learn why your brand matters.
+description: Kerajinan keranjang tembakau di Desa Mangunsari merupakan kegiatan bersama.
 thumbnail: "/assets/images/tembakau/gudang.JPG"
 image: "/assets/images/tembakau/gudang.JPG"
 ---
