@@ -4,7 +4,7 @@ date: 2022-07-03T09:49:03+10:00
 layout: post
 categories: ["Berita"]
 description: Kerajinan keranjang tembakau di Desa Mangunsari merupakan kegiatan bersama.
-thumbnail: "/assets/images/tembakau/gudang.JPG"
+thumbnail: "/assets/images/tembakau/gudang-thumbs.JPG"
 image: "/assets/images/tembakau/gudang.JPG"
 ---
 
