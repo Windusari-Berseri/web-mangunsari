@@ -4,7 +4,7 @@ date: 2022-07-03T09:49:03+10:00
 layout: post
 categories: ["Pengetahuan"]
 description: Desa Mangunsari adalah salah satu desa di Kecamatan Windusari, Kab. Magelang dengan daya tarik tersendiri.
-thumbnail: "/assets/images/scene/road.JPG"
+thumbnail: "/assets/images/scene/road-thumbs.JPG"
 image: "/assets/images/scene/road.JPG"
 ---
 
